@@ -1,0 +1,8 @@
+# Julia — a package doesn't commit its resolved Manifest (its [sources] pin a machine-local path)
+/Manifest.toml
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
