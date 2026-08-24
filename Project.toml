@@ -1,6 +1,6 @@
 name = "GlobeSlate"
 uuid = "3407f95d-69fb-4d30-a5a8-720a6642c965"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Kahli Burke <kahli@kahliburke.com>"]
 
 [deps]
